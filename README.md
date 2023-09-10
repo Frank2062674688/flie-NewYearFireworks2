@@ -4,4 +4,4 @@
 ## copyright©Frank
 ## copyright©范明宇
 **如需授权版权或举报，请至2062674688@qq.com申请或举报**
-[![](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png)(http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=642KhYaChYySnsWNmYqFgKuNhJOGioKHxYiEhg)
+[![](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png)]([https://www.luogu.com.cn/user/716965](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=642KhYaChYySnsWNmYqFgKuNhJOGioKHxYiEhg)http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=642KhYaChYySnsWNmYqFgKuNhJOGioKHxYiEhg)
